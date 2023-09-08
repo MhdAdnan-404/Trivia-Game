@@ -1,16 +1,69 @@
 # Trivia-Game
-This game is based on Trivia, The players can choose the category as well as the number of questions and the type of the questions from true of false to multiple choice or both 
-There is two players
-the program diplays questions to each player, and the player with the highest score wins, Both player get the same questions, 
-The program works by being linked to an api so the questions are differente each time, the programme also displayes the player that has the highest score 
+## Project
 
 
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/1.png" width="750" height="500">
+<br />
 
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/2.png" width="750" height="500">
+<div align="center">
+  <h2 align="center">Trivia Game</h2>
 
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/3.png" width="750" height="500">
+  <p align="center">
+    This trivia game, with customizable categories and question types, links to an API for unique questions in each round, and the player with the highest score emerges as the winner in a competitive two-player setting.
+  </p>
+</div>
 
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/4.png" width="750" height="500">
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+    </li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+        
+## About The Project
 
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/5.png" width="750" height="500">
+
+
+<h4>
+  <p>
+   This interactive trivia game is designed to offer a dynamic and engaging experience for two players. With a user-friendly interface, players have the flexibility to customize their gaming experience by selecting specific categories, specifying the number of questions, and even choosing between true or false questions, multiple-choice questions, or a combination of both.
+</h4>
+
+
+<p align="right">(<a href="#Project">back to top</a>)</p>
+
+
+## Built With
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/1.png" alt="drawing" width="200"/>
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/2.png" alt="drawing" width="200"/> 
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/3.png" alt="drawing" width="200"/>
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/4.png" alt="drawing" width="200"/>  
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/5.png" alt="drawing" width="200"/>  
+
+</p>
+
+
+
+
+<p align="right">(<a href="#Project">back to top</a>)</p>
+
+
+
+
+
+
