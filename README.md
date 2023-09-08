@@ -19,6 +19,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Features </a></li>
     </li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -49,13 +50,15 @@
 
 <p align="center">
   
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/1.png" alt="drawing" width="250"/>
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/2.png" alt="drawing" width="250"/> 
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/3.png" alt="drawing" width="250"/>
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/4.png" alt="drawing" width="250"/>  
-<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/5.png" alt="drawing" width="250"/>  
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/1.png" alt="drawing" width="290"/>
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/2.png" alt="drawing" width="290"/> 
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/3.png" alt="drawing" width="290"/>
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/4.png" alt="drawing" width="290"/>  
+<img src="https://github.com/404dn/Trivia-Game/blob/master/Pictuers/5.png" alt="drawing" width="290"/>  
 
 </p>
+
+## Features 
 
 
 
