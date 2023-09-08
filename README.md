@@ -32,6 +32,7 @@
 <h4>
   <p>
    This interactive trivia game is designed to offer a dynamic and engaging experience for two players. With a user-friendly interface, players have the flexibility to customize their gaming experience by selecting specific categories, specifying the number of questions, and even choosing between true or false questions, multiple-choice questions, or a combination of both.
+  </p>
 </h4>
 
 
@@ -59,6 +60,24 @@
 </p>
 
 ## Features 
+
+<h4>
+  <p>
+  The game operates by seamlessly integrating with an external API, ensuring that each session features a unique set of questions, enhancing replayability. The questions are presented to both players simultaneously, maintaining fairness and competitiveness throughout the gameplay.
+  </p>
+</h4>
+
+<h4>
+  <p>
+   As players progress through the game, their responses are meticulously scored, and at the end of the session, the player with the highest cumulative score emerges as the victor. This real-time score tracking adds an element of excitement and motivation, as players strive to outperform their opponent.
+</h4>
+
+
+<h4>
+  <p>
+  In the end, this trivia game not only provides entertainment but also serves as a stimulating test of knowledge and quick thinking. It's an excellent platform for players to showcase their expertise and have a friendly, intellectual showdown. So, gather your friends and enjoy a captivating trivia experience that combines knowledge, strategy, and fun.
+  </p>
+</h4>
 
 
 
